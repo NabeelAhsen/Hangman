@@ -1,6 +1,10 @@
 # Hangman
-A simple hangman game written in Python! 
+A simple hangman game written in Python3! 
 
+If you have Python3 installed and is part of your path, you can run this program from your commandline:
+```
+$ python3 Hangman.py
+```
 This is one of my first side projects. The goal for this project is to create a playable hangman game with randomized word selection.
 
 ## Goals
