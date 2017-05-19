@@ -237,7 +237,7 @@ if __name__ == "__main__":
         guessedLetters = []
 
         print("\n\n+++++++++ Welcome to Hangman! +++++++++\n")
-        print("Begin by choosing a category. The objective of the game is to correctly guess a word from your category one letter at a time. Every incorrect guess leads to our man closer to his death!\n")
+        print("Begin by choosing a category. The objective of the game is to correctly guess a word from your category one letter at a time. Every incorrect guess leads the man closer to his death!\n")
 
         print("Choose a category: animals, colours, sports, or tv shows")
 
